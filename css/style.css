@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.divMain{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(186, 231, 82, 0.616);
+}
+.divMain h1{
+    color: rgb(136, 134, 235);
+    position: relative;
+    text-align: center;
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+.divMain p{
+    position: relative;
+    float: left;
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+    color: red;
+}
+.divMain div{
+    position: relative;
+    height: 15%;
+    width: 15%;
+    text-align: center;
+    background-color: #fff;
+    margin-bottom: 2%;
+    float: left;
+    border: solid black;
+}
+.divLeft{
+    margin-left: 25.5%;
+}
+.divCenter{
+    margin-left: 2%;
+    margin-right: 2%;
+}
