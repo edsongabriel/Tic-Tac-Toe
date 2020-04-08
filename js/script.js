@@ -96,6 +96,6 @@ function checksEndGame() {
     ) {
         end = true;
     }else if(cont > 8){
-        document.getElementById('whoseTurnIsIt').innerHTML = 'Nobody won!';
+        document.getElementById('whoseTurnIsIt').innerHTML = 'Nobody won!!';
     }
 }
